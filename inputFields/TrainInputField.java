@@ -179,7 +179,7 @@ public class TrainInputField extends Region implements ViewTemplate, InputVerifi
             translateTransition = new TranslateTransition(Duration.seconds(1), trainSymbol);
             translateTransition.setInterpolator(Interpolator.EASE_BOTH);
             translateTransition.setFromX(0);
-            translateTransition.setByX(60);
+            translateTransition.setByX(8);
             translateTransition.setCycleCount(2);
             translateTransition.setAutoReverse(true);
             translateTransition.durationProperty().set(Duration.millis(100));

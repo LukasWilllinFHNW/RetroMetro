@@ -43,43 +43,45 @@ public class Demo extends Application {
     @Override
     public void start(Stage primaryStage) {
         VBox rootPane = new VBox();
+        rootPane.setSpacing(6);
         rootPane.maxHeightProperty().bind(primaryStage.heightProperty());
         rootPane.minHeightProperty().bind(primaryStage.heightProperty());
         rootPane.maxWidthProperty().bind(primaryStage.maxWidthProperty());
 
         Led led = new Led(true);
         led.setIsClickable(true);
-        led.setMaxHeight(60);
-        led.setMinHeight(60);
+        led.setMaxHeight(100);
+        led.setMinHeight(100);
         //rootPane.getChildren().add(led);
         led = new Led(false);
         led.setIsClickable(true);
-        led.setMaxHeight(40);
-        led.setMinHeight(40);
+        led.setMaxHeight(100);
+        led.setMinHeight(100);
         led.setClickableEnablesBlinking(true);
         led.setBlinkRate(1_000_000_000);
         led.setBlinkEnabled(false);
         rootPane.getChildren().add(led);
         rootPane.setAlignment(Pos.CENTER);
         TrainInputField input = new TrainInputField(true);
+        input.setMinSize(500, 70);
         rootPane.getChildren().add(input);
         InputVerifierInterface inputVerifier = new NumberInputVerifier(NumberInputVerifier.NumberTypeEnum.Double);
         ((NumberInputVerifier)inputVerifier).setLimit(4.1234567, -3.12345);
         input = new TrainInputField(inputVerifier);
-        input.setMinSize(500, 50);
+        input.setMinSize(500, 70);
         rootPane.getChildren().add(input);
         inputVerifier = new TextInputVerifier();
         inputVerifier.setExpectedStrings(new String[] {"expected", "@"});
         inputVerifier.setExpectedChars(new Character[] {'@'});
         inputVerifier.setUnvalidStrings(new String[] {";"});
         inputVerifier.setExpectedSequence(new Character[] {'-', '.', '-', ':'});
-        input.setMinSize(500, 50);
+        input.setMinSize(500, 70);
 
         input = new TrainInputField(inputVerifier);
         input.setMinSize(500, 50);
         rootPane.getChildren().add(input);
         TextField text = new TextField();
-        text.setMinSize(500, 30);
+        text.setMinSize(500, 70);
         text.textProperty().bindBidirectional(input.getVerifiedProperty());
         rootPane.getChildren().add(text);
 
