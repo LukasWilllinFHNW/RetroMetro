@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16cm"
+   height="2cm"
+   viewBox="0 0 566.92915 70.86614"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="trainlabel.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.3487187"
+     inkscape:cx="425.34015"
+     inkscape:cy="101.60757"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="cm"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:snap-tangential="true"
+     inkscape:snap-perpendicular="true"
+     inkscape:showpageshadow="false"
+     inkscape:bbox-paths="true"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="749"
+     inkscape:window-x="54"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-981.49612)">
+    <rect
+       style="opacity:1;fill:#4c59e0;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="line"
+       width="311.33563"
+       height="3.6811404"
+       x="162.06853"
+       y="1048.8517">
+      <title
+         id="title4140">line</title>
+    </rect>
+    <path
+       style="fill:#4c59e0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 481.10003,982.01956 c 0,0 -3.87891,1.72751 -3.87891,11.63867 17.80244,0 30.79305,0.67971 38.12305,3.54297 8.00089,3.1253 15.77697,12.532 21.5918,22.6035 l -31.37696,0 c -7.42224,0 -7.5451,-8.5772 -13.95507,-8.5332 l -14.38282,-0.068 0,41.1582 c 38.46073,0 59.04032,-0.8434 62.41407,-6.9161 3.37375,-6.0728 4.38619,-14.8428 4.04882,-21.9277 -0.33738,-7.0848 -16.5315,-29.01462 -25.64062,-34.75 -9.10912,-5.73537 -36.94336,-6.74804 -36.94336,-6.74804 z m 64.19531,57.49024 c 0,0 -1.25541,-0.1003 -1.75976,1.2519 -1.01734,2.9029 -1.73295,4.7661 -3.22461,6.92 1.95438,0 3.61293,-0.1073 4.98437,0.5371 -0.66701,-2.8969 0,-8.709 0,-8.709 z"
+       id="train"
+       inkscape:connector-curvature="0">
+      <title
+         id="title4144">train</title>
+    </path>
+    <path
+       style="opacity:1;fill:#4c59e0;fill-opacity:1;stroke:none;stroke-width:1.39999998;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 154.22841,981.53182 c -9.16272,0 -16.45682,0.26624 -21.60179,6.16833 -5.09506,5.84484 -6.15764,12.36395 -6.17295,23.40035 l -1.6914,0 0,41.2618 33.0625,0 0.004,-3.4655 -7.24925,-3.3071 0.13838,-27.218 7.10989,-4.9003 -0.003,-2.3709 -26.23197,0 c 0,-12.97098 1.50608,-20.79991 11.04225,-24.28929 2.88383,-1.05522 7.90282,-1.37572 14.78058,-1.37572 z"
+       id="lock"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccccccccccscc">
+      <title
+         id="title4138">lock</title>
+    </path>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:97.35839081px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4c59e0;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="excl"
+       transform="matrix(0.89537744,0,0,0.89537744,191.79467,71.242549)">
+      <title
+         id="title4142">excl</title>
+      <path
+         d="m 304.69514,1069.3871 -4.84891,0 -2.37691,-28.0951 0,-20.1087 9.60273,0 0,20.1087 -2.37691,28.0951 z m -8.22413,17.9219 0,-11.6944 11.69442,0 0,11.6944 -11.69442,0 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Rockwell;-inkscape-font-specification:Rockwell;fill:#4c59e0;fill-opacity:1"
+         id="path4189"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
